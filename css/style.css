@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/*------------------------Main Page Section-------------------------------*/
+li {
+    list-style-type: none;
+}
+
+
+nav#side-bar1 ul li a {
+    color: red;
+}
+
+#main-page {
+    background: #FEF1F4;
+}
+
+.ukuran-font {
+    font-size: 14px;
+}
+
+/*------------------------Footer Section----------------------------*/
+#footer {
+    background: #FEF1F4;
+}
+
+section#footer .container .row .col-md-4 p {
+    font-size: 14px;
+}
+
+#twitter-section {
+    max-width: 240px;
+}
